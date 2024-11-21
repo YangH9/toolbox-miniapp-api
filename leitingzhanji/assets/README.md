@@ -1,10 +1,13 @@
 
 # 雷霆战机资源
 
+[返回](../)
+
 | | | |
 | --- | --- | --- |
-| ![icon](./icon.png) | ![logo](./logo.png) | ![bg](./bg.jpg) |
+| ![](./icon.png) | ![](./logo.png) | ![](./bg.jpg) |
 
-| | | | | |
-| --- | --- | --- | --- | --- |
-| [战机](./plane/) | [战神](./ares/) | [驾驶员](./driver/) | [进阶材料](./material/) | [品质](./quality/) |
+| | | | |
+| --- | --- | --- | --- |
+| [战机](./plane/) | [战神](./ares/) | [源晶](./sourceCrystal/) | [驾驶员](./driver/) |
+| [进阶材料](./material/) | [品质](./quality/) | [消耗品](./consumable/) |
