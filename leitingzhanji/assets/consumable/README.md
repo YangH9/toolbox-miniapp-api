@@ -10,7 +10,7 @@
 
 | 矿石 | | |
 | --- | --- | --- |
-| ![](./mineral-1.jpg) | ![](./mineral-2.jpg) | ![](./mineral-3.jpg) |
+| ![](./mineral-1.jpg) | ![](./mineral-2.jpg) | ![](./mineral-3.jpg) | ![](./mineral-4.jpg) |
 
 | 残骸 | | |
 | --- | --- | --- |
