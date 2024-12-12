@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | ![](./magicCube-1.jpg) | ![](./magicCube-2.jpg) | ![](./magicCube-3.jpg) |
 | ![](./magicCube-4.jpg) | ![](./magicCube-5.jpg) | ![](./magicCube-6.jpg) |
-| ![](./magicCube-7.jpg) | | |
+| ![](./magicCube-7.jpg) | ![](./magicCube-8.jpg) | |
 
 | 矿石 | | |
 | --- | --- | --- |
