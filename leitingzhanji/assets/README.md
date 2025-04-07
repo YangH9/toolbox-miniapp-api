@@ -5,7 +5,10 @@
 
 | | | |
 | --- | --- | --- |
-| ![](./icon.png) | ![](./logo.png) | ![](./bg.jpg) |
+| ![](./icon.png) |
+| ![](./logo.png) | ![](./logo-1.png) |
+| ![](./bg.jpg) |
+| ![](./copyright.png) | ![](./copyright-1.png) |
 | ![](./logo-flash.png) | ![](./game-start.png) |
 
 | | | | |
