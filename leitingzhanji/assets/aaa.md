@@ -1,6 +1,6 @@
-| |
-| --- |
-| ![](https://wxmini-cdn.jj5agame.com/clover/share/card-01.jpg) |
+|                                                                 |
+| --------------------------------------------------------------- |
+| ![](https://wxmini-cdn.jj5agame.com/clover/share/card-01.jpg)   |
 | ![](https://wxmini-cdn.jj5agame.com/clover/share/a-card-01.jpg) |
 | ![](https://wxmini-cdn.jj5agame.com/clover/share/b-card-01.jpg) |
 | ![](https://wxmini-cdn.jj5agame.com/clover/share/c-card-01.jpg) |
