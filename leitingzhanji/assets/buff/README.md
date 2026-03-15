@@ -1,44 +1,44 @@
-# 雷霆战机立绘
+# 雷霆战机局内BUFF
 
 [返回](../)
 
-|                        |      |
-| ---------------------- | ---- |
-| ![](<./aaa%20(1).png>) | 作用 |
-| ![](<./aaa%20(2).png>) | 作用 |
-| ![](<./aaa%20(3).png>) | 作用 |
-| ![](<./aaa%20(4).png>) | 作用 |
-| ![](<./aaa%20(5).png>) | 作用 |
-| ![](<./aaa%20(6).png>) | 作用 |
-| ![](<./aaa%20(7).png>) | 作用 |
-| ![](<./aaa%20(8).png>) | 作用 |
+|                             |
+| --------------------------- |
+| ![](./buff-equipment-1.png) |
 
-|                          |                          |                          |                          |
-| ------------------------ | ------------------------ | ------------------------ | ------------------------ |
-| ![](<./aaaa%20(1).png>)  | ![](<./aaaa%20(2).png>)  | ![](<./aaaa%20(3).png>)  | ![](<./aaaa%20(4).png>)  |
-| ![](<./aaaa%20(5).png>)  | ![](<./aaaa%20(6).png>)  | ![](<./aaaa%20(7).png>)  | ![](<./aaaa%20(8).png>)  |
-| ![](<./aaaa%20(9).png>)  | ![](<./aaaa%20(10).png>) | ![](<./aaaa%20(11).png>) | ![](<./aaaa%20(12).png>) |
-| ![](<./aaaa%20(13).png>) | ![](<./aaaa%20(14).png>) | ![](<./aaaa%20(15).png>) | ![](<./aaaa%20(16).png>) |
+|                          |                          |                          |                          |                          |
+| ------------------------ | ------------------------ | ------------------------ | ------------------------ | ------------------------ |
+| ![](./buff-driver-1.png) | ![](./buff-driver-2.png) | ![](./buff-driver-3.png) | ![](./buff-driver-4.png) | ![](./buff-driver-5.png) |
 
-|                          |                          |                          |                          |
-| ------------------------ | ------------------------ | ------------------------ | ------------------------ |
-| ![](<./bbbb%20(1).png>)  | ![](<./bbbb%20(2).png>)  | ![](<./bbbb%20(3).png>)  | ![](<./bbbb%20(4).png>)  |
-| ![](<./bbbb%20(5).png>)  | ![](<./bbbb%20(6).png>)  | ![](<./bbbb%20(7).png>)  | ![](<./bbbb%20(8).png>)  |
-| ![](<./bbbb%20(9).png>)  | ![](<./bbbb%20(10).png>) | ![](<./bbbb%20(11).png>) | ![](<./bbbb%20(12).png>) |
-| ![](<./bbbb%20(13).png>) | ![](<./bbbb%20(14).png>) | ![](<./bbbb%20(15).png>) | ![](<./bbbb%20(16).png>) |
-| ![](<./bbbb%20(17).png>) | ![](<./bbbb%20(18).png>) | ![](<./bbbb%20(19).png>) | ![](<./bbbb%20(20).png>) |
-| ![](<./bbbb%20(21).png>) | ![](<./bbbb%20(22).png>) | ![](<./bbbb%20(23).png>) | ![](<./bbbb%20(24).png>) |
+|                            |                            |                            |                            |                            |
+| -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
+| ![](./buff-original-1.png) | ![](./buff-original-2.png) | ![](./buff-original-3.png) | ![](./buff-original-4.png) | ![](./buff-original-5.png) |
 
-|                          |                          |                          |                          |
-| ------------------------ | ------------------------ | ------------------------ | ------------------------ |
-| ![](<./cccc%20(1).png>)  | ![](<./cccc%20(2).png>)  | ![](<./cccc%20(3).png>)  | ![](<./cccc%20(4).png>)  |
-| ![](<./cccc%20(5).png>)  | ![](<./cccc%20(6).png>)  | ![](<./cccc%20(7).png>)  | ![](<./cccc%20(8).png>)  |
-| ![](<./cccc%20(9).png>)  | ![](<./cccc%20(10).png>) | ![](<./cccc%20(11).png>) | ![](<./cccc%20(12).png>) |
-| ![](<./cccc%20(13).png>) | ![](<./cccc%20(14).png>) | ![](<./cccc%20(15).png>) | ![](<./cccc%20(16).png>) |
+|                                  |                                  |                                  |                                  |
+| -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+| ![](./buff-spacecruise-1-1.png)  | ![](./buff-spacecruise-1-2.png)  | ![](./buff-spacecruise-1-3.png)  | ![](./buff-spacecruise-1-4.png)  |
+| ![](./buff-spacecruise-1-5.png)  | ![](./buff-spacecruise-1-6.png)  | ![](./buff-spacecruise-1-7.png)  | ![](./buff-spacecruise-1-8.png)  |
+| ![](./buff-spacecruise-1-9.png)  | ![](./buff-spacecruise-1-10.png) | ![](./buff-spacecruise-1-11.png) | ![](./buff-spacecruise-1-12.png) |
+| ![](./buff-spacecruise-1-13.png) | ![](./buff-spacecruise-1-14.png) | ![](./buff-spacecruise-1-15.png) | ![](./buff-spacecruise-1-16.png) |
+| ![](./buff-spacecruise-2-1.png)  | ![](./buff-spacecruise-2-2.png)  | ![](./buff-spacecruise-2-3.png)  | ![](./buff-spacecruise-2-4.png)  |
+| ![](./buff-spacecruise-2-5.png)  | ![](./buff-spacecruise-2-6.png)  | ![](./buff-spacecruise-2-7.png)  | ![](./buff-spacecruise-2-8.png)  |
+| ![](./buff-spacecruise-2-9.png)  | ![](./buff-spacecruise-2-10.png) | ![](./buff-spacecruise-2-11.png) | ![](./buff-spacecruise-2-12.png) |
+| ![](./buff-spacecruise-2-13.png) | ![](./buff-spacecruise-2-14.png) | ![](./buff-spacecruise-2-15.png) | ![](./buff-spacecruise-2-16.png) |
+| ![](./buff-spacecruise-3-1.png)  | ![](./buff-spacecruise-3-2.png)  | ![](./buff-spacecruise-3-3.png)  | ![](./buff-spacecruise-3-4.png)  |
+| ![](./buff-spacecruise-3-5.png)  | ![](./buff-spacecruise-3-6.png)  | ![](./buff-spacecruise-3-7.png)  | ![](./buff-spacecruise-3-8.png)  |
+| ![](./buff-spacecruise-3-9.png)  | ![](./buff-spacecruise-3-10.png) | ![](./buff-spacecruise-3-11.png) | ![](./buff-spacecruise-3-12.png) |
+| ![](./buff-spacecruise-3-13.png) | ![](./buff-spacecruise-3-14.png) | ![](./buff-spacecruise-3-15.png) | ![](./buff-spacecruise-3-16.png) |
+| ![](./buff-spacecruise-3-17.png) | ![](./buff-spacecruise-3-18.png) | ![](./buff-spacecruise-3-19.png) | ![](./buff-spacecruise-3-20.png) |
+| ![](./buff-spacecruise-3-21.png) | ![](./buff-spacecruise-3-22.png) | ![](./buff-spacecruise-3-23.png) | ![](./buff-spacecruise-3-24.png) |
+| ![](./buff-spacecruise-4-1.png)  | ![](./buff-spacecruise-4-2.png)  | ![](./buff-spacecruise-4-3.png)  | ![](./buff-spacecruise-4-4.png)  |
+| ![](./buff-spacecruise-4-5.png)  | ![](./buff-spacecruise-4-6.png)  | ![](./buff-spacecruise-4-7.png)  | ![](./buff-spacecruise-4-8.png)  |
+| ![](./buff-spacecruise-4-9.png)  | ![](./buff-spacecruise-4-10.png) | ![](./buff-spacecruise-4-11.png) | ![](./buff-spacecruise-4-12.png) |
+| ![](./buff-spacecruise-4-13.png) | ![](./buff-spacecruise-4-14.png) | ![](./buff-spacecruise-4-15.png) | ![](./buff-spacecruise-4-16.png) |
 
-|                          |                          |                          |                          |
-| ------------------------ | ------------------------ | ------------------------ | ------------------------ |
-| ![](<./dddd%20(1).png>)  | ![](<./dddd%20(2).png>)  | ![](<./dddd%20(3).png>)  | ![](<./dddd%20(4).png>)  |
-| ![](<./dddd%20(5).png>)  | ![](<./dddd%20(6).png>)  | ![](<./dddd%20(7).png>)  | ![](<./dddd%20(8).png>)  |
-| ![](<./dddd%20(9).png>)  | ![](<./dddd%20(10).png>) | ![](<./dddd%20(11).png>) | ![](<./dddd%20(12).png>) |
-| ![](<./dddd%20(13).png>) | ![](<./dddd%20(14).png>) | ![](<./dddd%20(15).png>) | ![](<./dddd%20(16).png>) |
+|                                 |                                 |                                 |                                 |
+| ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
+| ![](./buff-starcruise-5-1.png)  | ![](./buff-starcruise-5-2.png)  | ![](./buff-starcruise-5-3.png)  | ![](./buff-starcruise-5-4.png)  |
+| ![](./buff-starcruise-5-5.png)  | ![](./buff-starcruise-5-6.png)  | ![](./buff-starcruise-5-7.png)  | ![](./buff-starcruise-5-8.png)  |
+| ![](./buff-starcruise-5-9.png)  | ![](./buff-starcruise-5-10.png) | ![](./buff-starcruise-5-11.png) | ![](./buff-starcruise-5-12.png) |
+| ![](./buff-starcruise-5-13.png) | ![](./buff-starcruise-5-14.png) | ![](./buff-starcruise-5-15.png) | ![](./buff-starcruise-5-16.png) |
+| ![](./buff-starcruise-5-17.png) | ![](./buff-starcruise-5-18.png) | ![](./buff-starcruise-5-19.png) | ![](./buff-starcruise-5-20.png) |
